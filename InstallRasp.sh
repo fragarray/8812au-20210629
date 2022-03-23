@@ -1,4 +1,4 @@
-!# /usr/bin/bash
+#! /usr/bin/bash
 echo "Installando dipendenze"
 sudo apt install -y raspberrypi-kernel-headers bc build-essential dkms git screen -y
 ecgo "Creo cartella src"
